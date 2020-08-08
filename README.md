@@ -1,1 +1,1 @@
-# exemplo-dotnet-rabbitmq
+# Exemplos de utilização do Rabbit MQ com .Net
